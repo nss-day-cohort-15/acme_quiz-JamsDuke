@@ -20,19 +20,19 @@
         },
         {
             "id": 3,
-            "category": 0,
+            "category": 1,
             "name": "civilian_grade",
             "description": "Available to the general public, some permits required."
         },
         {
             "id": 4,
-            "category": 0,
+            "category": 1,
             "name": "industrial_grade",
             "description": "Industrial grade explsoives used for controlled demolition of unwanted structures."
         },
         {
             "id": 5,
-            "category": 0,
+            "category": 1,
             "name": "military_grade",
             "description": "Military grade explosives meant for waging war and/or covert operations."
         }
