@@ -1,10 +1,112 @@
 {
-    "products": [{
-        "fairy_sparklers": {
-            "id": 0,
-            "type": 0,
-            "name": "Fairy Sparklers",
-            "description": "Multi-colored sparklers that are safe for any age."
-        }
-    }]
+  "products": [{
+    "fairy_sparklers": {
+      "id": 0,
+      "type": 0,
+      "name": "Sparklers",
+      "description": "Multi-colored sparklers that are safe for any age."
+    },
+    "smoke_bombs": {
+      "id": 1,
+      "type": 0,
+      "name": "Smoke Bombs",
+      "description": "Pefect for popping purple smoke."
+    },
+    "snakes": {
+      "id": 2,
+      "type": 0,
+      "name": "Snakes",
+      "description": "The packaging makes these sound way more exciting than they actually are."
+    },
+    "product_name": {
+      "id": 3,
+      "type": 1,
+      "name": "",
+      "description": ""
+    },
+    "product_name": {
+      "id": 4,
+      "type": 1,
+      "name": "",
+      "description": ""
+    },
+    "product_name": {
+      "id": 5,
+      "type": 1,
+      "name": "",
+      "description": ""
+    },
+    "product_name": {
+      "id": 6,
+      "type": 2,
+      "name": "",
+      "description": ""
+    },
+    "product_name": {
+      "id": 7,
+      "type": 2,
+      "name": "",
+      "description": ""
+    },
+    "product_name": {
+      "id": 8,
+      "type": 2,
+      "name": "",
+      "description": ""
+    },
+    "product_name": {
+      "id": 9,
+      "type": 3,
+      "name": "",
+      "description": ""
+    },
+    "product_name": {
+      "id": 10,
+      "type": 3,
+      "name": "",
+      "description": ""
+    },
+    "product_name": {
+      "id": 11,
+      "type": 3,
+      "name": "",
+      "description": ""
+    },
+    "product_name": {
+      "id": 12,
+      "type": 4,
+      "name": "",
+      "description": ""
+    },
+    "product_name": {
+      "id": 13,
+      "type": 4,
+      "name": "",
+      "description": ""
+    },
+    "product_name": {
+      "id": 14,
+      "type": 4,
+      "name": "",
+      "description": ""
+    },
+    "product_name": {
+      "id": 15,
+      "type": 5,
+      "name": "",
+      "description": ""
+    },
+    "product_name": {
+      "id": 16,
+      "type": 5,
+      "name": "",
+      "description": ""
+    },
+    "product_name": {
+      "id": 17,
+      "type": 5,
+      "name": "",
+      "description": ""
+    }
+  }]
 }
