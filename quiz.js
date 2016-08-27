@@ -13,4 +13,4 @@ var Acme = (function(acme){
     }
   }
 
-})(Acme);
+})(Acme || {});

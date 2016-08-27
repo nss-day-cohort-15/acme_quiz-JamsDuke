@@ -5,10 +5,10 @@ var Acme = (function(acme){
   storeShelf.prepend(
     ``)
   $("#displayProducts").on("click", function(){
-    acme.loadJson()
+    acme.loadItems()
   })
 
-  acme.loadJson = function(){
+  acme.loadItems = function(){
     Promise.all([
       $.getJSON("categories.json"),
       $.getJSON("types.json"),
@@ -17,4 +17,4 @@ var Acme = (function(acme){
   }
   return acme
 
-})(Acme);
+})(Acme || {});
