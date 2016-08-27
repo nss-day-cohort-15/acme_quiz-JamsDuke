@@ -9,7 +9,7 @@ var Acme = (function(acme){
   storeShelf.prepend(
     `<div>
       <select name="" id="">
-        <option value="fireworks" name="category" selected>Fireworks</option>
+        <option value="fireworks" name="category">Fireworks</option>
         <option value="demotion" name="category">Demolition</option>
       </select>
       <button id="displayProducts">Display Products</button>
