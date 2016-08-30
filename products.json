@@ -1,0 +1,112 @@
+{
+  "products": [{
+    "sparklers": {
+      "id": 0,
+      "type": 0,
+      "name": "Sparklers",
+      "description": "Multi-colored sparklers that are safe for any age."
+    },
+    "smoke_bombs": {
+      "id": 1,
+      "type": 0,
+      "name": "Smoke Bombs",
+      "description": "Pefect for popping purple smoke."
+    },
+    "snakes": {
+      "id": 2,
+      "type": 0,
+      "name": "Snakes",
+      "description": "The packaging makes these sound way more exciting than they actually are."
+    },
+    "arial": {
+      "id": 3,
+      "type": 1,
+      "name": "Arial",
+      "description": "Launches up into the sky and makes crowds go 'ahhh'."
+    },
+    "hoop 'o' flame": {
+      "id": 4,
+      "type": 1,
+      "name": "Hoop 'o' Flame",
+      "description": "Its big, it spins, its way too big to fire off in your driveway without setting the house on fire."
+    },
+    "the trump": {
+      "id": 5,
+      "type": 1,
+      "name": "The Trump",
+      "description": "This fearsome visage looks down at assembled crowds of revelers, or enemies."
+    },
+    "m-1000": {
+      "id": 6,
+      "type": 2,
+      "name": "M-1000",
+      "description": "Celebrate the independence of your country by blowing up a small part of it!"
+    },
+    "mega flower": {
+      "id": 7,
+      "type": 2,
+      "name": "Mega Flower",
+      "description": "20x the size of those puny flowers.  These were all the rage in the 50's before safety became a concern."
+    },
+    "imperial roman candle": {
+      "id": 8,
+      "type": 2,
+      "name": "Imperial Roman Candle",
+      "description": "If youre going to launch this at your friends, make sure they are wearing armor."
+    },
+    "tannerite": {
+      "id": 9,
+      "type": 3,
+      "name": "Tannerite",
+      "description": "Fun stuff to bring with you to the shooting range.  Disclaimer: Purchasers may wind up on a Homeland Security watch list."
+    },
+    "thermite": {
+      "id": 10,
+      "type": 3,
+      "name": "Thermite",
+      "description": "Did you know this stuff was legal?  We didnt either."
+    },
+    "blasting caps": {
+      "id": 11,
+      "type": 3,
+      "name": "Blasting Caps",
+      "description": "Farmers can buy these, why cant you?"
+    },
+    "semtex": {
+      "id": 12,
+      "type": 4,
+      "name": "Semtex",
+      "description": "When that run down casino just wont budge."
+    },
+    "dynamite": {
+      "id": 13,
+      "type": 4,
+      "name": "Dynamite",
+      "description": "For the more 'traditional' explosives engineer."
+    },
+    "emugel": {
+      "id": 14,
+      "type": 4,
+      "name": "Emugel",
+      "description": "Perfect for quarry blasting.  Just pray you dont unearth any troggs while doing so."
+    },
+    "c-4": {
+      "id": 15,
+      "type": 5,
+      "name": "C-4",
+      "description": "Choice explosive among SEAL Team-6 operatives."
+    },
+    "daisy cutter": {
+      "id": 16,
+      "type": 5,
+      "name": "Daisy Cutter",
+      "description": "You wont be cutting any daisies with this puppy."
+    },
+    "melta bomb": {
+      "id": 17,
+      "type": 5,
+      "name": "Melta Bomb",
+      "description": "Destroy those pesky armored targets and do so in the name of The Emperor!"
+    }
+  }]
+}

@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "professional",
+            "description": "Fireworks used in professional events and ceremonies."
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "illegal",
+            "description": "We smuggled these from China, but dont tell anyone."
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "civilian_grade",
+            "description": "Available to the general public, some permits required."
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "industrial_grade",
+            "description": "Industrial grade explosives used for controlled demolition of unwanted structures."
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "military_grade",
+            "description": "Military grade explosives meant for waging war and/or covert operations."
+        }
+    ]
+}

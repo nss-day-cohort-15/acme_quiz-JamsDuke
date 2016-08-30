@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+  color: red;
+}
+
+.itemCard {
+  border: 3px solid black;
+  border-radius: 10px;
+  min-height: 250px;
+}
